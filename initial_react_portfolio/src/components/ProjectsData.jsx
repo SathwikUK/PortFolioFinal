@@ -2,8 +2,8 @@ import { BiLogoCss3, BiLogoMongodb, BiLogoReact, BiLogoTailwindCss, BiLogoTypesc
 import { TbBrandNextjs, TbApi, TbDatabase, TbBrandPrisma } from "react-icons/tb";
 import { SiThemoviedatabase, SiExpress, SiJavascript } from "react-icons/si";
 import { FaNodeJs } from "react-icons/fa";
-import port from '../assets/Images/basic.png';
-import devhob from '../assets/Images/image.png';
+import port from '../assets/images/basic.png';
+import devhob from '../assets/images/image.png';
 import student from '../assets/images/studmarkman.png';
 import express from '../assets/images/express.png';
 import workji from '../assets/images/workji.png';

@@ -13,8 +13,8 @@ import git from '../assets/images/git.png';
 import github from '../assets/images/github.png';
 import javascript from '../assets/images/javascript.png';
 import node from '../assets/images/node.png';
-import postman from '../assets/images/png';
-import mysql from '../assets/images/png';
+import postman from '../assets/images/postman.png';
+import mysql from '../assets/images/mysql.png';
 import mongodb from '../assets/images/mongodb.png';
 
 const skills = [
