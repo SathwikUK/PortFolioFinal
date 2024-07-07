@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import htmlImage from '../assets/Images/h.png';
+import htmlImage from '../assets/images/html.png';
 import cssImage from '../assets/Images/css.png';
 import react from '../assets/images/react.png';
 import express from '../assets/images/express.png';
