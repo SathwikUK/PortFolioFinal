@@ -11,7 +11,7 @@ import tailwind from '../assets/images/tailwind.png';
 import java from '../assets/images/java.png';
 import python from '../assets/images/python.png';
 import invigo from '../assets/images/invigo.png';
-
+import price from '../assets/images/pricepredictor.png'
 import lets from '../assets/images/lets talk.png';
 
 
@@ -35,7 +35,7 @@ const ProjectsData = [
     demo: "https://workout-ji-mj3w.vercel.app/",
   },
   {
-    id: "3",
+    id: "4",
     name: "Developers-HUB",
     image: devhob,
     icons: [BiLogoReact, BiLogoCss3, SiJavascript,SiExpress,BiLogoMongodb,FaNodeJs],
@@ -43,7 +43,7 @@ const ProjectsData = [
     github: "https://github.com/SathwikUK/Developer-Hub",
     demo: "https://developer-hub-api.vercel.app/",
   },
-  {id: "4",
+  {id: "6",
     name: "Student Marks Management",
     image: student,
     icons: [BiLogoReact, BiLogoCss3, SiJavascript,SiExpress,BiLogoMongodb,FaNodeJs],
@@ -51,7 +51,7 @@ const ProjectsData = [
     github: "https://github.com/SathwikUK/StudentMarksManagement",
     demo: "https://student-marks-management-client.vercel.app/",
   },
-  {id: "5",
+  {id: "7",
     name: "Invigo",
     image: invigo,
     icons: [BiLogoReact, BiLogoCss3, SiJavascript,SiExpress,BiLogoMongodb,FaNodeJs],
@@ -59,7 +59,7 @@ const ProjectsData = [
     github: "https://github.com/SathwikUK/Invigo-",
     demo: "https://invigo-eduvistaxe2ecsed-sathwikuks-projects.vercel.app/",
   },
-  {id: "6",
+  {id: "5",
     name: "Let's-Talk",
     image: lets,
     icons: [BiLogoReact, BiLogoCss3, SiJavascript,SiExpress,BiLogoMongodb,FaNodeJs],
@@ -67,9 +67,9 @@ const ProjectsData = [
     github: "https://github.com/SathwikUK/Let-s-Talk_js",
     demo: "https://come-let-s-talk-ji.vercel.app/",
   },
-  {id: "7",
+  {id: "3",
     name: "CarPricePrediction",
-    image: student,
+    image: price,
     icons: [FaBrain],
     description: "This website insights basic prediction model.",
     github: "https://github.com/SathwikUK/Car_prediction",
