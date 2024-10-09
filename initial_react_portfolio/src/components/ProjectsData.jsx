@@ -1,7 +1,7 @@
 import { BiLogoCss3, BiLogoMongodb, BiLogoReact, BiLogoTailwindCss, BiLogoTypescript } from "react-icons/bi";
 import { TbBrandNextjs, TbApi, TbDatabase, TbBrandPrisma } from "react-icons/tb";
 import { SiThemoviedatabase, SiExpress, SiJavascript } from "react-icons/si";
-import { FaNodeJs } from "react-icons/fa";
+import { FaNodeJs,FaBrain } from "react-icons/fa";
 import port from '../assets/images/basic.png';
 import devhob from '../assets/images/image.png';
 import student from '../assets/images/studmarkman.png';
@@ -10,6 +10,10 @@ import workji from '../assets/images/workji.png';
 import tailwind from '../assets/images/tailwind.png';
 import java from '../assets/images/java.png';
 import python from '../assets/images/python.png';
+import invigo from '../assets/images/invigo.png';
+
+import lets from '../assets/images/lets talk.png';
+
 
 const ProjectsData = [
   {
@@ -46,6 +50,30 @@ const ProjectsData = [
     description: "This website insights Managing Student Marks in a Organisation.",
     github: "https://github.com/SathwikUK/StudentMarksManagement",
     demo: "https://student-marks-management-client.vercel.app/",
+  },
+  {id: "5",
+    name: "Invigo",
+    image: invigo,
+    icons: [BiLogoReact, BiLogoCss3, SiJavascript,SiExpress,BiLogoMongodb,FaNodeJs],
+    description: "This is a Invigilation Management for our College.",
+    github: "https://github.com/SathwikUK/Invigo-",
+    demo: "https://invigo-eduvistaxe2ecsed-sathwikuks-projects.vercel.app/",
+  },
+  {id: "6",
+    name: "Let's-Talk",
+    image: lets,
+    icons: [BiLogoReact, BiLogoCss3, SiJavascript,SiExpress,BiLogoMongodb,FaNodeJs],
+    description: "This website helps in voice chat over people ,fun to do this.",
+    github: "https://github.com/SathwikUK/Let-s-Talk_js",
+    demo: "https://come-let-s-talk-ji.vercel.app/",
+  },
+  {id: "7",
+    name: "CarPricePrediction",
+    image: student,
+    icons: [FaBrain],
+    description: "This website insights basic prediction model.",
+    github: "https://github.com/SathwikUK/Car_prediction",
+    demo: "https://car-prediction-fled.onrender.com/",
   },
   
 ];
