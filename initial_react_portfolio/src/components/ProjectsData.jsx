@@ -25,6 +25,20 @@ const ProjectsData = [
     github: "https://github.com/SathwikUK/portfolio",
     demo: "https://portfolio-peach-six-47.vercel.app/",
   },
+  
+  
+  
+  
+  
+  
+  {id: "3",
+    name: "CarPricePrediction",
+    image: price,
+    icons: [FaBrain],
+    description: "This website insights basic prediction model.",
+    github: "https://github.com/SathwikUK/Car_prediction",
+    demo: "https://car-prediction-fled.onrender.com/",
+  },
   {
     id: "2",
     name: "Workout-JI",
@@ -34,6 +48,8 @@ const ProjectsData = [
     github: "https://github.com/SathwikUK/workout-ji",
     demo: "https://workout-ji-mj3w.vercel.app/",
   },
+  
+  
   {
     id: "4",
     name: "Developers-HUB",
@@ -42,6 +58,14 @@ const ProjectsData = [
     description: "In This Website Developers Hire Each other and get their work done.",
     github: "https://github.com/SathwikUK/Developer-Hub",
     demo: "https://developer-hub-api.vercel.app/",
+  },
+  {id: "5",
+    name: "Let's-Talk",
+    image: lets,
+    icons: [BiLogoReact, BiLogoCss3, SiJavascript,SiExpress,BiLogoMongodb,FaNodeJs],
+    description: "This website helps in voice chat over people ,fun to do this.",
+    github: "https://github.com/SathwikUK/Let-s-Talk_js",
+    demo: "https://come-let-s-talk-ji.vercel.app/",
   },
   {id: "6",
     name: "Student Marks Management",
@@ -59,22 +83,8 @@ const ProjectsData = [
     github: "https://github.com/SathwikUK/Invigo-",
     demo: "https://invigo-eduvistaxe2ecsed-sathwikuks-projects.vercel.app/",
   },
-  {id: "5",
-    name: "Let's-Talk",
-    image: lets,
-    icons: [BiLogoReact, BiLogoCss3, SiJavascript,SiExpress,BiLogoMongodb,FaNodeJs],
-    description: "This website helps in voice chat over people ,fun to do this.",
-    github: "https://github.com/SathwikUK/Let-s-Talk_js",
-    demo: "https://come-let-s-talk-ji.vercel.app/",
-  },
-  {id: "3",
-    name: "CarPricePrediction",
-    image: price,
-    icons: [FaBrain],
-    description: "This website insights basic prediction model.",
-    github: "https://github.com/SathwikUK/Car_prediction",
-    demo: "https://car-prediction-fled.onrender.com/",
-  },
+  
+  
   
 ];
 
